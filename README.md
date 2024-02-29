@@ -25,6 +25,7 @@ Keep track of employee details, roles, and responsibilities.
 Frontend:
 HTML5, CSS3, JavaScript, Vite, Bootstrap.
 Enhanced with beautiful resort images to create an immersive experience.
+
 Backend :
 Node.js with Express for server-side logic.
 
