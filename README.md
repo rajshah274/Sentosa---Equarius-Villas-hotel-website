@@ -31,7 +31,11 @@ Node.js with Express for server-side logic.
 
 # Setup Instructions
 Clone the repository: git clone 
+
 Install Dependencies
+
 npm install
+
 Start the Development Server npm run dev
+
 The application will start on http://localhost:3000.
